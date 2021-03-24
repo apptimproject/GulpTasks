@@ -1,0 +1,13 @@
+#main-area {
+    position: relative;
+    left: 100px;
+    margin: 20px;
+    font-size: 2em;
+    color: red;
+}
+
+#btn{
+    position: relative;
+    left: 100px;
+    margin: 20px;
+}
